@@ -1,0 +1,31 @@
+.DS_Store
+# dependencies
+node_modules/
+
+# environment
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# build
+dist/
+build/
+
+cat > .gitignore << EOF
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Build
+dist/
+build/
+EOF

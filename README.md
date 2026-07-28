@@ -2,6 +2,8 @@
 
 Snitch is a full-stack e-commerce marketplace built using the MERN stack. It enables buyers to discover and purchase products while providing sellers with a dedicated dashboard to manage products, inventory, and sales. The application implements secure authentication, product variants, cloud-based image uploads, shopping cart management, and online payments through Razorpay.
 
+pdf: https://drive.google.com/file/d/1BMAPPPRJgezNCtIN5FnnyDtCbMIPeKVZ/view?usp=sharing
+
 ## Features
 
 ### Authentication
